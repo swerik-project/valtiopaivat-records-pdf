@@ -1,0 +1,4 @@
+---
+layout: default
+UpRedirect: https://pdf.swedeb.se/valtiopaivat-records-pdf/1885/prot_1885_borgare_III/prot_1885_borgare_III-0114.pdf
+---

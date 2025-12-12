@@ -1,0 +1,4 @@
+---
+layout: default
+UpRedirect: https://pdf.swedeb.se/valtiopaivat-records-pdf/1882/prot_1882_borgare_II/prot_1882_borgare_II-0130.pdf
+---
